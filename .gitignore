@@ -1,0 +1,45 @@
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+*.docx
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+.vscode/
+
+# system ignore
+.DS_Store
+Thumbs.db
+*.pdb
+/.idea
+
+cache/
+*.epoch
+*.lck
+
+/logs
+/log
+
+# mybatis generator
+# MpGenerator.java
+
+.flattened-pom.xml
